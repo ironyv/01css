@@ -7,11 +7,12 @@ body {
 li.one {
   background-color: orange;
   list-style-type: none;
-  margin: ;
 }
 li.two {
   background-color: yellow;
+  list-style-type: none;
 }
 li.three {
   background-color: #99CCFF;
+  list-style-type: none;
 }
