@@ -1,1 +1,17 @@
 /* custom css */
+body {
+  margin: 0;
+  padding: 0;
+}
+li.one {
+  color: black;
+}
+li.one {
+  background-color: orange;
+}
+li.two {
+  background-color: yellow;
+}
+li.three {
+  background-color: blue;
+}
