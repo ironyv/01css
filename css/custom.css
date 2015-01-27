@@ -3,11 +3,11 @@ body {
   margin: 0;
   padding: 0;
 }
-li.one {
-  color: black;
-}
+
 li.one {
   background-color: orange;
+  list-style-type: none;
+  margin: ;
 }
 li.two {
   background-color: yellow;
