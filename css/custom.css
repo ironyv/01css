@@ -18,10 +18,8 @@ li.one {
 li.two {
   background-color: yellow;
   list-style-type: none;
-  margin: 0% 33% 0% 0%;
 }
 li.three {
   background-color: #99CCFF;
   list-style-type: none;
-  margin: 0% 67% 0% 00%;
 }
